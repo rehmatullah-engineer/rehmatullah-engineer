@@ -57,7 +57,6 @@
 ---
 
 # 💻 Tech Stack
-
 ### 🎨 Front-End
 ![HTML5](https://img.shields.io/badge/HTML5-000000?style=for-the-badge&logo=html5&logoColor=FF5722)
 ![CSS3](https://img.shields.io/badge/CSS3-000000?style=for-the-badge&logo=css3&logoColor=2965F1)
@@ -67,7 +66,7 @@
 ![Angular](https://img.shields.io/badge/Angular-000000?style=for-the-badge&logo=angular&logoColor=DD0031)
 ![Sass](https://img.shields.io/badge/SASS-000000?style=for-the-badge&logo=sass&logoColor=FF69B4)
 
-### ⚙️ Back-End & State (MERN Stack)
+### ⚙️ Back-End & State (MERN Stack MEAN)
 ![Node.js](https://img.shields.io/badge/Node.js-000000?style=for-the-badge&logo=node.js&logoColor=3CFF6C)
 ![Express.js](https://img.shields.io/badge/Express-000000?style=for-the-badge&logo=express&logoColor=FFFFFF)
 ![MongoDB](https://img.shields.io/badge/MongoDB-000000?style=for-the-badge&logo=mongodb&logoColor=4DB33D)
