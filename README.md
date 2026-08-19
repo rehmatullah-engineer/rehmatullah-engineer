@@ -22,7 +22,7 @@
 🎓 **7th Semester Software Engineering Student @ IUB**  
 💼 **Front-End Engineer @ CodeApex**  
 💡 Passionate about building **AI-powered web apps**  
-📚 Currently learning **Entrepreneurship & AI/ML Engineer**  
+📚 Currently learning **Entrepreneurship & AI/ML Cloud Computing**  
 🤝 Open to **collaboration & freelance projects**  
 ⚡ Always exploring new tech & innovations  
 
